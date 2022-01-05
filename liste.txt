@@ -3,8 +3,8 @@ gant  Gants d’intervention
 brassard  Brassard de sécurité
 menottes  Porte menottes
 cyno  Bandeau agent cynophile
-talk  Talkies walkies
-lamp  Lampe Torche
-ki  Kit oreillette
-tase  Tasers
-lacrym  Bombes lacrymogènes
+talke  Talkies walkies
+lampe  Lampe Torche
+kit  Kit oreillette
+taser  Tasers
+lacrymo  Bombes lacrymogènes
